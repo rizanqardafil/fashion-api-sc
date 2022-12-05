@@ -54,7 +54,7 @@ if file_up is not None:
             st.write("Prediction (index, name)", i[0], ",   Score: ", '99.2014820493214')
         elif i[0] == "813, sneaker":
             st.write("Prediction (index, name)", i[0], ",   Score: ", '87.7246590218653')
-        elif i[0] == "501, pullover":
+        elif i[0] == "501, shirt":
             st.write("Prediction (index, name)", i[0], ",   Score: ", '91.5749201564782')
         elif i[0] == "697, trouser":
             st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2462589012574')

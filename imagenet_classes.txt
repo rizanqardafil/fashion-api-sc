@@ -499,7 +499,7 @@
 498, cinema
 499, cleaver
 500, cliff_dwelling
-501, pullover
+501, shirt
 502, clog
 503, cocktail_shaker
 504, coffee_mug
