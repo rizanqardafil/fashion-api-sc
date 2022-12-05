@@ -499,7 +499,7 @@
 498, cinema
 499, cleaver
 500, cliff_dwelling
-501, women clothes
+501, pullover
 502, clog
 503, cocktail_shaker
 504, coffee_mug
@@ -811,7 +811,7 @@
 810, space_bar
 811, space_heater
 812, space_shuttle
-813, shoes
+813, sneaker
 814, speedboat
 815, spider_web
 816, spindle
@@ -916,7 +916,7 @@
 915, yurt
 916, web_site
 917, comic_book
-918, heels
+918, Angkle Boot
 919, street_sign
 920, traffic_light
 921, book_jacket
