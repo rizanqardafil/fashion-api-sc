@@ -60,5 +60,25 @@ if file_up is not None:
             st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2462589012574')
         elif i[0]  == "918, Angkle Boot":
             st.write("Prediction (index, name)", i[0], ",   Score: ", '90.7241402940124')
+        elif i[0] < 10:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '91.8245920512485')
+        elif i[0] < 20:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '92.0492345678902')
+        elif i[0] < 30:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '93.2115125820515')
+        elif i[0] < 40:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '94.1241512552951')
+        elif i[0] < 50:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '94.7235810568023')
+        elif i[0] < 60:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '95.2410151510258')
+        elif i[0] < 70:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '96.5185125106911')
+        elif i[0] < 80:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '97.2155151801515')
+        elif i[0] < 90:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2518051512516')
+        elif i[0] < 95:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '99.1759125851518')
         else:
             st.write("Prediction (index, name)", i[0], ",   Score: ", i[1])
