@@ -594,7 +594,7 @@
 593, harmonica
 594, harp
 595, harvester
-596, hatchet
+596, sneakers
 597, holster
 598, home_theater
 599, honeycomb
@@ -744,7 +744,7 @@
 743, prison
 744, projectile
 745, projector
-746, puck
+746, hat
 747, punching_bag
 748, purse
 749, quill
