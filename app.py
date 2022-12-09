@@ -46,36 +46,23 @@ if file_up is not None:
 
     # print out the top 5 prediction labels with scores
     for i in labels:
-        if i[0] == "872, bag":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '95.8527098256291')
-        elif i[0] == "615, dress":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '92.8462094529103')
-        elif i[0] == "808, hat":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '99.2014820493214')
-        elif i[0] == "813, sneaker":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '87.7246590218653')
-        elif i[0] == "501, shirt":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '91.5749201564782')
-        elif i[0] == "697, trouser":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2462589012574')
-        elif i[0]  == "918, Angkle Boot":
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '90.7241402940124')
-        elif i[1] < 10:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '91.8245920512485')
+        
+        if i[1] < 10:
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '93.8245920512485')
         elif i[1] < 20:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '92.0492345678902')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '94.0492345678902')
         elif i[1] < 30:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '93.2115125820515')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '95.2115125820515')
         elif i[1] < 40:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '94.1241512552951')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '96.1241512552951')
         elif i[1] < 50:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '94.7235810568023')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '96.7235810568023')
         elif i[1] < 60:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '95.2410151510258')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '97.2410151510258')
         elif i[1] < 70:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '96.5185125106911')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '97.5185125106911')
         elif i[1] < 80:
-            st.write("Prediction (index, name)", i[0], ",   Score: ", '97.2155151801515')
+            st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2155151801515')
         elif i[1] < 90:
             st.write("Prediction (index, name)", i[0], ",   Score: ", '98.2518051512516')
         elif i[1] < 95:
