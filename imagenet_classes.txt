@@ -594,7 +594,7 @@
 593, harmonica
 594, harp
 595, harvester
-596, sneakers
+596, Angkle Boot
 597, holster
 598, home_theater
 599, honeycomb
