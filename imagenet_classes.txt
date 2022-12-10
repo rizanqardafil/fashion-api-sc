@@ -628,7 +628,7 @@
 627, limousine
 628, liner
 629, lipstick
-630, Loafer
+630, Angkle Boot
 631, lotion
 632, loudspeaker
 633, loupe

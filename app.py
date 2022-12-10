@@ -9,7 +9,7 @@ st.title("Fashion Campus")
 st.write("")
 
 # enable users to upload images for the model to make predictions
-file_up = st.file_uploader("Upload an image", type = "jpg")
+file_up = st.file_uploader("Upload an image", type = "jpg, png")
 
 
 def predict(image):
